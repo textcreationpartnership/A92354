@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of divers remarkable proceedings betwixt the Kings Majesty and his loyall subjects, exprest in these particulars following. 1. His Majesties speech to the gentry of the county of Yorke. attending his Majesty at his court at York, the 12. of May. 2. The answer and resolution of the gentry, and commonality of the county of Yorke, to His Majesties speech. 3. A letter of thankes from the Lords in Parliament assembled, to the county of Yorke. 4. A declaration of both houses of Parliament, as it was ordered to be printed the 12. of May. Iohn Browne, Cler. Parl. 5. Stafford-shire petition presented to the Honourable House of Commons by the knights esquires, gentlemen, ministers, free-holders, and other inhabitants of the county of Stafford.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92354</idno>
+            <idno type="STC">Wing R803</idno>
+            <idno type="STC">Thomason E147_17</idno>
+            <idno type="STC">ESTC R11079</idno>
+            <idno type="EEBO-CITATION">99858931</idno>
+            <idno type="PROQUEST">99858931</idno>
+            <idno type="VID">110991</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92354)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110991)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E147[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of divers remarkable proceedings betwixt the Kings Majesty and his loyall subjects, exprest in these particulars following. 1. His Majesties speech to the gentry of the county of Yorke. attending his Majesty at his court at York, the 12. of May. 2. The answer and resolution of the gentry, and commonality of the county of Yorke, to His Majesties speech. 3. A letter of thankes from the Lords in Parliament assembled, to the county of Yorke. 4. A declaration of both houses of Parliament, as it was ordered to be printed the 12. of May. Iohn Browne, Cler. Parl. 5. Stafford-shire petition presented to the Honourable House of Commons by the knights esquires, gentlemen, ministers, free-holders, and other inhabitants of the county of Stafford.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coules, and T. Bates,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Early works to 1800.</term>
+               <term>Staffordshire (England) --  History --  Sources --  Early works to 1800.</term>
+               <term>Yorkshire (England) --  History --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110991:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 61 -->
+            <p>A RELATION OF Divers Remarkable proceedings betwixt the Kings Majeſty and his loyall Subjects, expreſt in theſe particulars following.</p>
+            <list>
+               <item>1. His Majeſties Speech to the Gentry of the County of <hi>Yorke,</hi> atten<g ref="char:EOLhyphen"/>ding his Majeſty at his Court at <hi>York</hi> the 12. of <hi>May.</hi>
+               </item>
+               <item>2. The Anſwer and Reſolution of the Gentry, and Commonalty of the County of <hi>Yorke,</hi> to his Majeſties Speech.</item>
+               <item>3. A Letter of thankes from the Lords in Parliament aſſembled, to the County of <hi>Yorke.</hi>
+               </item>
+               <item>4. A Declaration of both Houſes of Parliament, as it was ordered to be printed the 12. of <hi>May. Iohn Browns,</hi> Cler. Parl.</item>
+               <item>5. <hi>Stafford-ſhire</hi> Petition, preſented to the Honourable Houſe of Commons by the Knights Eſquires, Gentlemen, Miniſters, Free-holders, and other Inhabitants of the County of <hi>Stafford.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>London,</hi> Printed for <hi>F. Ceules,</hi> and <hi>T. Bates.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="speech">
+            <pb facs="tcp:110991:2"/>
+            <!-- PDF PAGE 62 -->
+            <head>
+               <hi>HIS</hi> MAIESTIES Speech to the Gentrie of the County of York, at<g ref="char:EOLhyphen"/>tendng his <hi>Majeſtie</hi> at the City of York, on Thurſday the 12. of <hi>May.</hi> 1642.</head>
+            <opener>
+               <salute>Gentleman,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have cauſe of adding not altering, what I meant to ſay, when I gave out the ſummons for this daies apperance I little thought of theſe Meſſengers, or of ſuch a Meſ<g ref="char:EOLhyphen"/>ſage as they brought, the which, becauſe it confirmes me in what I intend to ſpeak, and that I deſire you ſhould be truely informed of all paſſages between me and the Parliament, you ſhall heare read. Firſt, my Anſwer to the De<g ref="char:EOLhyphen"/>claration of both Houſes concerning <hi>Hull</hi> the anſwer of the Parliament to my two Meſſages concerning <hi>Hull,</hi> together with my Reply to the ſame, and my Meſſage to both Houſes declaring the reaſons why I re<g ref="char:EOLhyphen"/>fuſed to paſſe the Bill concerning the <hi>Militia.</hi>
+            </p>
+            <p>All which being read, His Maieſty proceeded.</p>
+            <p>I Will make no Paraphraſes upon what ye have heard, it more bene<g ref="char:EOLhyphen"/>fitting a Lawyer then a King, onely this obſervation, ſince Treaſon in countenanced ſo neere me, it is time to looke to my ſafety: I avow it was
+<pb facs="tcp:110991:2"/>
+               <!-- PDF PAGE 62 -->part of my wonder, that men (whom I thought heretofore diſcreet, any moderate) ſhould have undertaken this imployment, and that ſince the-came (I having delivered them the Anſwer: you have heard, and comd<g ref="char:EOLunhyphen"/>manded them to returne perſonally with it to the Parliament) ſhould have flatly diſobeyed mee upon pretence of the Parliaments command. My end in telling you this, is to warne you of them, for ſince theſe men have brought me ſuch a Meſſage, and diſobeyed ſo lawfull a Command, I will not ſay what their intent of ſtaying here is, onely I bid you take heed, not knowing what doctrine of diſobedience they may preach to you, under colour of obeying the Parliament. Hitherto I have found and kept you quiet, the enjoying of which was a chiefe cauſe of my com<g ref="char:EOLhyphen"/>ming hither (Tumults and diſorders having made me leave the South) and not to make this a ſeate of Warre, as malice would (but I hope in vain) make you beleeve; Now if diſturbances do come, I know whom I have reaſon to ſuſpect.</p>
+            <p>To be ſhort, you ſee that my Magazine is going to be taken from me (being my owne proper goods) directly againſt my will; The <hi>Militia</hi> (againſt Law and my conſent) is going to be put in Execution: And laſtly, Sir <hi>Iohn Hothams</hi> Treaſon is countenanced; All this conſidered none can blame me to apprehend dangers. Therefore I have thought fit (upon theſe reall Grounds) to tell you, That I am reſolved to have a Guard (the Parliament having had one all this while upon imaginary Jealouſies,) onely to ſecure my perſon. In which I deſire your concur<g ref="char:EOLhyphen"/>rence and aſſiſtance, and that I may be able to protect you, the Lawes, and the true Proteſtant profeſſion from any Affront or Injury that may be oftered, which I meane to maintaine my ſelfe without charge to the Country, intending no longer to keepe them on foote, then I ſhall be ſe<g ref="char:EOLhyphen"/>cured of my juſt Apprehenſions by having ſatisfaction in the particular before mentioned.</p>
+         </div>
+         <div n="2" type="answer">
+            <pb facs="tcp:110991:3"/>
+            <!-- PDF PAGE 63 -->
+            <head>An Anſwer to His <hi>Majeſties</hi> Speech, by the Gentry of the County of <hi>Yorke,</hi> atten<g ref="char:EOLhyphen"/>ding his Majeſty at the Court of <hi>York</hi> on Thurſ<g ref="char:EOLhyphen"/>day the 12. of <hi>May,</hi> 1642.</head>
+            <opener>
+               <salute>May it pleaſe Your moſt Excellent Majeſty.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Propoſitions delivered to Vs yeſterday from your Ma<g ref="char:EOLhyphen"/>jeſty are of ſo high concernement to the Weale and peace of the whole Kingdome, and doe ſo nearely touch upon the af<g ref="char:EOLhyphen"/>fection and fidelity of all your Subjects in Generall, and wee being but a part of one County only, doe not conceive it ſafe for Vs to adviſe therein, but rather humbly to beſeech. Your Majeſty to impart the ground of Your Majeſties feares and jealouſies. to Your high Court of Parliament, (of whoſe moſt loyall care and affection to your Ma<g ref="char:EOLhyphen"/>jeſties Honour and ſafety, and the proſperity of Your Subjects and Do<g ref="char:EOLhyphen"/>minions, we are moſt confident) and whatſoever ſhall be adviſed by your Great Counſell, therein we ſhall moſt willingly embrace, and give our concurrence and asſiſtance to it as ſhall become us; In whoſe fidelity your Majeſtie hath often declared eſpeciall truſt, and albeit we doe not pre<g ref="char:EOLhyphen"/>ſume to adviſe Your Majeſty to that particular, it being of tranſcen<g ref="char:EOLhyphen"/>dent conſequence.</p>
+            <p>Nevertheleſſe, in the behalfe of thoſe Members of Parliament, late<g ref="char:EOLhyphen"/>ly imployed to attend your Majeſty, from both Houſes, being all Gentle<g ref="char:EOLhyphen"/>men of quality and eſtate in this County and truſted to ſerve in that moſt Honourable Aſſembly, we humbly crave Your Maieſties leave to ex<g ref="char:EOLhyphen"/>preſſe our corfidence in their unſtained loyalty and affection to Your Ma<g ref="char:EOLhyphen"/>jeſty to be ſuch as Your Majeſty may ſecurely admit their attendance to Your Majeſty to be ſuch as Your Majeſty may ſecarely admit their atten<g ref="char:EOLunhyphen"/>dance to negotiate their imployments untill they be recalled by the Parli<g ref="char:EOLhyphen"/>ament, and for their fidelity we do all ingage our ſelves to Your Majeſty, and we are moſt aſſured that Your Royall Perſon ſhall be ſecured in the reall fidelity of Your Subjects of this County without any extraordi<g ref="char:EOLunhyphen"/>nary Guard.</p>
+         </div>
+         <div n="3" type="declaration">
+            <pb facs="tcp:110991:3"/>
+            <!-- PDF PAGE 63 -->
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Jovis,</hi> 12 <hi>Maii,</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <head>The Declaration of both Houſes of <hi>PARLIAMENT.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lords and Commons aſſembled in Parliament doe declare, That they are reſolved to maintaine thoſe Lords and Gentlemen, Committees of both Houſes of Parliament, reſiding at <hi>Yorke,</hi> in thoſe things they have done, and ſhall further doe, in obedience of their commands, for the preſerving the peace of the Kingdome.</p>
+            <p>The Lords and Commons doe declare, That if any perſon what<g ref="char:EOLhyphen"/>ſoever ſhall arreſt or impriſon the perſons of thoſe Lords and Gentlemen, or any of them, or any other Member of either Houſe, that are, or ſhall be imployed in the ſervice of both Houſes of Par<g ref="char:EOLhyphen"/>liament; or ſhall offer violence to them, or any of them, for doing of any thing in purſuunce of their commands, or the inſtructions of both houſes, given unto them, ſhall be held diſturbers of the pro<g ref="char:EOLhyphen"/>ceedings of Parliament, and publike enemies of the State. And that all perſons are bound by their Proteſtation, to endevour to bring them to condigne puniſhment.</p>
+            <p>The Lords and Commons doe declare, that thoſe of the City of London, and all other perſons that have obeyed the Ordinance for the <hi>Militia,</hi> and done any thing in execution thereof, have done it according to the Law of the Land, and in purſuance of what they were commanded by both Houſes Houſes of <hi>Parliament,</hi> and for the defence and ſafety of the King and Kingdome, and ſhall have the aſſiſtance of both Houſes of <hi>Parliament,</hi> againſt any that ſhall preſume to queſtion them for yeelding their obedience to the ſaid command in this neceſſary and important ſervice; and that whoſo<g ref="char:EOLhyphen"/>ever ſhall obey the ſaid Ordinance for the time to come, ſhall re<g ref="char:EOLhyphen"/>ceive the ſame approbation and aſſiſtance from both Houſes of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <pb facs="tcp:110991:4"/>
+            <!-- PDF PAGE 64 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:110991:4"/>
+            <!-- PDF PAGE 64 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div n="4" type="letter">
+            <pb facs="tcp:110991:5"/>
+            <!-- PDF PAGE 65 -->
+            <head>A Letter of thanks from the Lords in Parliament aſſembled to the Countie of <hi>York.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>His Houſe hath read the Petition from the County of <hi>York,</hi> the expreſsions wherein are ſo full of affections to the publike good of the kingdom and Parlament, that they receive it with much content, and ſatisfaction, and aſſure you by mee, that your zeale to the Common-wealth, hath added much to the honour of your Countrey; comman<g ref="char:EOLhyphen"/>ding me in their names, to returne their very hearty thanks; the Houſe concurres with you in opinion, that the onely remedy for this di<g ref="char:EOLhyphen"/>ſtracted Kingdome to recover its ancient ſtrength, happineſſe, and luſtre, is unity; which as it hath ever beene the ayme and ſcope of all their pro<g ref="char:EOLhyphen"/>ceedings, ſo ſhall it ever be the chiefeſt of their endevours. And for this purpoſe they are already upon framing their humble deſires to his Majeſty, wherein they ſhall requeſt ſuch things as they conceive doe chiefely tend the honour of God, the greatneſſe and proſperity of his Ma<g ref="char:EOLhyphen"/>jeſtie, and the publike good of this Common-wealth, theſe were almoſt perfected before the receipt of your Petition, and will very ſpeedily be to the King, which had beene done ere this, but that his Majeſty with<g ref="char:EOLhyphen"/>drawing himſelfe ſo farre from the Parliament, and thoſe many denyalls, they have had in thoſe things they have deſired, have neceſſitated them to ſpend much of their time in Meſſages, and diverted them from their other more neceſſary buſineſſes, but they doubt not but in theſe deſires they will make ſuch cleare demonſtrations of their duty to the King, and love to his people, who have intruſted them, that they ſhall fully acquit them<g ref="char:EOLhyphen"/>ſelves thereof, both to him and them. Sir, this is what at this time I am commanded to write to you, onely adding, that I am, &amp;c.</p>
+            <closer>
+               <signed>Ioh. Banks.</signed>
+            </closer>
+         </div>
+         <div n="5" type="letter">
+            <pb facs="tcp:110991:5"/>
+            <!-- PDF PAGE 65 -->
+            <head>
+               <hi>Stafford-ſhire Petition,</hi> To the Honourable, the Knights, Citi<g ref="char:EOLhyphen"/>zens and Burgeſſes of the Comons Houſe of Parliament.</head>
+            <head type="sub">The humble Petition of the Knights, Eſquires, Gentle<g ref="char:EOLhyphen"/>men, Miniſters, Free-holders, and other In<g ref="char:EOLhyphen"/>habitants of the Countie of <hi>STAFORD.</hi>
+            </head>
+            <opener>Sheweth</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat in their owne names, and in the names of many thouſands of the Inhabitants of the Countie of <hi>Stafford,</hi> your Petitioners with hearts fuller of thankfulnes, than their tongues can be of expreſſion, humbly acknowledge their ſenſibleneſſe of the unparalelled tra<g ref="char:EOLhyphen"/>vaile and indefatigable endevour of this Ho<g ref="char:EOLhyphen"/>nourable Houſe, already ſpent in the diſcharge of that truſt deſervedly by the Commons of all the Land veſted in you, whereby an ample Teſtimony is given, as of your faithfulneſſe and courage, in the expoſure of your ſelves and fortunes in theſe deſperate times; So likewiſe of the good hand and providence of God, carrying you thorow many difficult ſtraights, and dangerous conſpiracies of the Popiſh and Malignant partie, who have hitherto way laid your proceedings.</p>
+            <p>All which your Petitioners take as very promiſing beginnings, and faire Pledges of the healing of the inſupportable grievances, both Eccleſiaſticall and Civill, which the Church and State grone under; And doe concurrently and freely profeſſe their Contribu<g ref="char:EOLhyphen"/>tions
+<pb facs="tcp:110991:6"/>
+               <!-- PDF PAGE 66 -->to the work under your hands, not only by their prayers, but alſo by the devotement of their lives, power, and eſtates, according to that wiſe and Religious Proteſtation ſet forth by you; concer<g ref="char:EOLhyphen"/>ning their owne lives and ſafeties to be ſhipt in one bottome with yours.</p>
+            <p>And your Petitioners further ſhew, That it is not the leaſt par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of their comfort, that you have continued the <hi>Militia</hi> of th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Countie unto ſo Honourable Lord, in whom we may ſafely confid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>And your Petitioners doe humbly pray, That the unexampled miſeries and almoſt expiring ſtate of our Brethren in <hi>Ireland,</hi> m<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be conſidered by an expedite diſpatch of ſeaſonable ſuccour; An that they may from time to time during their miſeries bee looke, upon by you, not only as Engliſh, and fellow-ſubjects; but as Pro<g ref="char:EOLhyphen"/>teſtants and Profeſſours of Gods truth, under which Notion they ſuffer theſe extremities; and that the Inſurrection of the Papiſts there may be reckoned of, not onely as a Rebellion, but a horrid perſecution of Chriſt in his Truth and Members, that ſo the intereſt of God and his cauſe may quicken your ſympathy with, and ende<g ref="char:EOLhyphen"/>vours for them.</p>
+            <p>That the Papiſts (who are a great number in this ſmall Countie) may be thorowly and ſpeedily diſarmed, and ſo diſpoſed of; That they be not formidable to your Petitioners, by being able, either to keep us in jealouſies by their practices at home, or to ſoment that fire kindled by their partie in <hi>Ireland.</hi>
+            </p>
+            <p>That the Church in her government, Officers and worſhip, may be ordered according to the Rule of Gods holy Word, the parti<g ref="char:EOLhyphen"/>cular accommodation of which wee humbly leave to the wiſdome of this Honourable Houſe to determine, by the aſſiſtance of an Aſ<g ref="char:EOLhyphen"/>ſembly of godly and learned Divines.</p>
+            <p>That the preſent ſtate and condition of the Church may bee thought upon for Miniſtry maintenance, and ſupply of an able Preaching Miniſterie, Pluralities ſuppreſt, the Fountaines of Lear<g ref="char:EOLhyphen"/>ning cleared; All inſufficient for the work of the Miniſtry, All groſſely ſcandalous and negligent in their ſunctions, removed, that they may no longer remaine a burthen to keep out others.</p>
+            <closer>
+               <signed>And your Petitioners ſhall pray, &amp;c.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
